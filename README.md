@@ -7,36 +7,52 @@ Hello! I am Software Engineer looking to kick-start my career at a company that 
 
  - **Michigan State University**
 	 - *Bachelor of Science in Computer Science; Major GPA: 3.88, **Overall GPA**: 3.82*
-	 - Relevant Coursework:
-		 - **CSE 331 (Algorithms and Data Structures):** Designed, analyzed, and applied algorithms and data structures to various problems in Computer Science.
-		 - **CSE 335 (Object-Oriented Software Design):** Developed large team-based software projects using Scrum  technique. Focused on common software design methods, the use of inheritance and polymorphism, and an  emphasis on Test-Driven Development.
-		 - **CSE 476 (Mobile Application Development):** Developed applications using Java and Android Studio for  mobile devices.
-		 - **CSE 477 (Web Application Architecture and Development):** Developed web applications in a Full Stack  environment using HTML, CSS, PHP, SQL, JavaScript, and Ajax. Build an understanding of scaling, throughput,  and latency with regards to widely-distributed systems.
-		 - **CSE 480 (Database Systems):** Managed relational SQLite database systems and implemented algorithms in  Python associated with database management.
+	 - Earned a Bachelor of Science in Computer Science, specializing in a comprehensive curriculum that encompassed
+key areas such as Algorithms and Data Structures, Object-Oriented Software Design, Mobile Application
+Development, Web Application Architecture and Development, Database Systems, Computer Systems, Operating
+Systems, and Computer Networks. Developed proficiency in a wide range of programming languages and tools,
+including HTML, CSS, PHP, SQL, JavaScript, C++, C, Python, Java, Android Studio, Visual Studio, PHP Storm,
+and SQLite, through comprehensive coursework.
 
 
 ## Experience
 
  - **Lockheed Martin Space & Michigan State University** (Jan 2022 - May 2022)
 	 - [Python, Flask, Jenkins, Postgres, Docker]
-	 - **Back-End Developer:** Designed and implemented back-end code for gathering performance metrics for new  applications uploaded to the App-Store. Used a Jenkins Continuous-Integration pipeline to automatically test  applications against different hardware boards with many SDKs. Processed performance metrics into JSON and  used a PostgreSQL database to store the results.
-	 - **Lead Debugger:** Debugged problematic Python Flask back-end code base for the Satellite App-Store. Took  non-working back-end and made it completely functional.
-	 - **Sysadmin:** Managed the Linux based production server for team development. Made sure each of the Docker containers for the individual components of the server were adequately configured. Verified each member of the team had access to the production server on personal development machines.
-	 - **For more information check out the project video:** [SmartSat Appstore Project Video](http://www.capstone.cse.msu.edu/2022-01/projects/lockheed-martin-space/project-video.mp4)
+	 - Developed and implemented efficient back-end code for gathering performance metrics for Lockheed Martin’s
+SmartSAT Satellite system applications, utilizing a Jenkins Continuous-Integration pipeline for automated testing
+on dedicated hardware. Automating this process cut 30 to 60 mins of manual labor for users looking to track
+application performance.
+	 - Utilized Python to parse application performance data into JSON format and wrote SQL queries to seamlessly
+integrate the data into the PostgreSQL database, ensuring accurate and accessible performance tracking
+	 - Successfully debugged a problematic Python Flask back-end by identifying and resolving issues, while also
+refactoring the code for improved functionality. Documented the debugging process to assist future engineers
+working on the code base.
+	 - Managed the Linux-based production server for team deployment, ensuring proper configuration of Docker
+containers for system components and readiness for future updates and modifications.
+	 - **For more information check out the system overview video:** [SmartSat Appstore Project Video](http://www.capstone.cse.msu.edu/2022-01/projects/lockheed-martin-space/project-video.mp4)
 
 
  - **Ford Motor Company & Michigan State University** (Sep 2021 - Dec 2021)
 	 - [UML, HTML, CSS, JavaScript, GSAP]
-	 - **Software Requirements Specification:** Gathered requirements and designed a software system for  
-automatically parking Ford Motor Vehicles called Active Park Assist. Used gathered requirements to create a 67  page document with complete UML diagrams for the system components.
-     - **System Prototype:** Designed and developed a web-based prototype of the Active Park Assist system. Used  HTML, CSS, and JavaScript to control the different components of the prototype. Animated prototype using  JavaScript library GSAP.
+	 - Conducted thorough requirement gathering sessions with a team to elicit and document detailed specifications for
+the development of Active Park Assist, a software system for automated parking of motor vehicles. Utilized the
+gathered requirements to create a comprehensive 67-page Software Requirements Specification (SRS) document,
+encompassing system requirements, potential components, and their integrations through UML and user diagrams.
+     - Developed an interactive web-based prototype of the Active Park Assist system using HTML, CSS, and JavaScript,
+ensuring widespread accessibility through modern browsers. Implemented animations using GSAP, a JavaScript
+animation library, to enhance the prototype’s visual representation and user experience.
      - **to read more about the project and view the prototype check out:**  [APA3](https://cse.msu.edu/~koebelk1/index.html)
 
 ## Projects
 
  - **Sorry! Multiplayer game:** Designed and developed a web-based version of the classic board game Sorry! with multiplayer functionality. [PHP, JavaScript, CSS , HTML, TCP] 
  - **check it out here:** [Sorry! game](https://webdev.cse.msu.edu/~koebelk1/project2/)
-
+- **SimpleFit Fitness Application W.I.P:** Developed SimpleFit, a progressive web application utilizing SolidJS, TypeScript, Deno, and PostgreSQL to
+empower users to track and analyze their fitness progress. Implemented a custom user authentication system,
+enabling users to securely sign up, save, track, and share their exercise and workout plans. Achieved fast and
+efficient reactivity in the front-end through SolidJS and TypeScript, while leveraging Deno’s runtime to create a
+robust and scalable RESTful API that seamlessly connects the front-end with the PostgreSQL database.
 ## Programming Skills
 
  - **Languages:** Python, JavaScript, C++, SQL, Java, PHP, HTML, CSS
